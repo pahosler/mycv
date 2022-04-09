@@ -1,0 +1,12 @@
+$primary: #ff70f3;
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+body {
+  background-color: #0000ff;
+}
+
+#svelte {
+  padding: 1rem;
+  background-color: #ff0000;
+}
